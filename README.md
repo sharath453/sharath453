@@ -1,10 +1,7 @@
-<h1 align="center"> SHARATH A L</h1>
+<h1 align="center">SHARATH A L</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/in/sharath-a-l-877754249/)](https://www.linkedin.com/in/sharath-a-l-877754249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)
 [![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-blue)](mailto:alsharath66@gmail.com)
 
 ## Skills
@@ -28,6 +25,5 @@
 ![Figma](https://img.shields.io/badge/Figma-%23039BE5.svg?style=for-the-badge&logo=Figma)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath453&" alt="sharath453" /></p>
