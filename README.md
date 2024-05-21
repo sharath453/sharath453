@@ -4,7 +4,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile\)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-blue)](mailto:alsharath66@gmail.com)
 
 ## Skills
