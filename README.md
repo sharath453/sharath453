@@ -3,6 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)
 [![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-blue)](mailto:alsharath66@gmail.com)
+[![Codechef](https://img.shields.io/badge/codechef-sharath-blue)]([https://www.linkedin.com/in/sharath-a-l-877754249/](https://www.codechef.com/users/al_4al21cs134))
+
 
 ## Skills
 
