@@ -1,21 +1,21 @@
 <h1 align="center">SHARATH A L</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)
 [![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-green)](mailto:alsharath66@gmail.com)
 [![Codechef](https://img.shields.io/badge/codechef-sharath-yellow)](https://www.codechef.com/users/al_4al21cs134)
-</p>
+
  <br>
    
 <h2 align="center">Competitive Programming Stats</h2>
-<p align="center">
+
 <a target="_blank" href="https://leetcode.com/Kanchan19102000/"><img src="https://img.shields.io/badge/Leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a target="_blank" href="https://www.codechef.com/users/kanchan1930"><img src="https://img.shields.io/badge/Codechef-%23D14836.svg?&style=for-the-badge&logo=codecheflogoColor=white" /></a>
 <a target="_blank" href="https://codeforces.com/profile/kanchan_jeswani/"><img src="https://img.shields.io/badge/codeforces-%230077B5.svg?&style=for-the-badge&logo=codeforceslogoColor=white" /></a>
 <a target="_blank" href="https://www.hackerrank.com/kanchanjeswani21/"><img src="https://img.shields.io/badge/hackerrank-%23F7DF1E.svg?&style=for-the-badge&logo=hackerranklogoColor=white" /></a>
 <a target="_blank" href="https://www.hackerearth.com/@kanchan134/"><img src="https://img.shields.io/badge/hackerearth-%23092E20.svg?&style=for-the-badge&logo=hackerearthlogoColor=white" /></a>
   <a target="_blank" href="https://auth.geeksforgeeks.org/user/kanchanjeswani/practice/"><img src="https://img.shields.io/badge/geeksforgeeks-%23323330.svg?&style=for-the-badge&logo=geeksforgeekslogoColor=white" /></a>
-</p>
+
 <br>
 ## Skills
 
