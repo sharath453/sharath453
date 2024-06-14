@@ -1,11 +1,10 @@
 <h1 align="center">SHARATH A L</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)
 [![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-green)](mailto:alsharath66@gmail.com)
 [![Codechef](https://img.shields.io/badge/codechef-sharath-yellow)](https://www.codechef.com/users/al_4al21cs134)
-
-# **Linkedin** : <a href="https://www.linkedin.com/in/kanchan-jeswani-888827173/" target="_blank" rel="nofollow">Click to view</a></p>
+</p>
  <br>
    
 <h2 align="center">Competitive Programming Stats</h2>
