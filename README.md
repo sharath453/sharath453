@@ -16,6 +16,7 @@
   <a target="_blank" href="https://auth.geeksforgeeks.org/user/kanchanjeswani/practice/"><img src="https://img.shields.io/badge/geeksforgeeks-%23323330.svg?&style=for-the-badge&logo=geeksforgeekslogoColor=white" /></a>
 
 <br>
+
 ## Skills
 
 - Technical :
