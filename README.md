@@ -7,7 +7,7 @@
 
  <br>
    
-<h2 align="center">Competitive Programming Stats</h2>
+<h2>Competitive Programming Stats</h2>
 
 
 <a target="_blank" href="https://www.codechef.com/users/kanchan1930"><img src="https://img.shields.io/badge/Codechef-%23D14836.svg?&style=for-the-badge&logo=codecheflogoColor=white" /></a>
