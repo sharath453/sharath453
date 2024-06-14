@@ -38,5 +38,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath453&" alt="sharath453" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath453&layout=compact&theme=tokyonight" alt="sharath453" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath453&" alt="sharath453" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath453&layout=compact&theme=tokyonight" alt="sharath453" /></p>
