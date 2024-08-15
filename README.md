@@ -4,15 +4,16 @@
 ## About Me 
 
 🎓 I’m currently pursuing a B.E in Computer Science and Engineering (CSE) at Alva's Institute of Engineering and Technology.<br>
-🔭 Actively engaged in pursuing internships and job opportunities, I aim to leverage my skills in programming and emerging technologies.<br>
+🔭 Actively engaged in pursuing internships and job opportunities.<br>
+📍 I aim to leverage my skills in programming and emerging technologies.<br>
 💻 Skills: Proficient in C and Java programming languages, certified in Robotics Process Automation (RPA)<br>
 🌱 Experienced in Internet of Things (IoT) through completed internships.<br>
 🌱 A passionate learner, I’m always on the lookout for new knowledge and skills to stay ahead in my field.
 
 ## Contact 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)<br>
-[![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-green)](mailto:alsharath66@gmail.com)<br>
-[![Codechef](https://img.shields.io/badge/codechef-sharath-yellow)](https://www.codechef.com/users/al_4al21cs134)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)
+[![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-green)](mailto:alsharath66@gmail.com)
+[![Codechef](https://img.shields.io/badge/codechef-sharath-yellow)](https://www.codechef.com/users/al_4al21cs134)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharath-blue)](https://alsharathportfolio.netlify.app/)
   
 ## Skills
@@ -37,7 +38,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Experience 💼
+## Experience [Intenship] 💼
 
 #### Internet of Things Intern | Alva’s Institute of Engineering and Technology | Karnataka, India (2022)
 - Led a team during an IoT internship, coordinating projects and promoting collaboration.
