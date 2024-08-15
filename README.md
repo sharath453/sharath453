@@ -3,12 +3,12 @@
 
 ## About Me 
 
-🎓 I’m currently pursuing a B.E in Computer Science and Engineering (CSE) at Alva's Institute of Engineering and Technology.<br>
-🔭 Actively engaged in pursuing internships and job opportunities.<br>
-📍 I aim to leverage my skills in programming and emerging technologies.<br>
-💻 Skills: Proficient in C and Java programming languages, certified in Robotics Process Automation (RPA)<br>
-🌱 Experienced in Internet of Things (IoT) through completed internships.<br>
-🌱 A passionate learner, I’m always on the lookout for new knowledge and skills to stay ahead in my field.
+- I’m currently pursuing a B.E in Computer Science and Engineering (CSE) at Alva's Institute of Engineering and Technology.<br>
+- Actively engaged in pursuing internships and job opportunities.<br>
+- I aim to leverage my skills in programming and emerging technologies.<br>
+- Skills: Proficient in C and Java programming languages, certified in Robotics Process Automation (RPA)<br>
+- Experienced in Internet of Things (IoT) through completed internships.<br>
+- A passionate learner, I’m always on the lookout for new knowledge and skills to stay ahead in my field.
 
 ## Contact 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)
