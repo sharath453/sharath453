@@ -1,9 +1,19 @@
-<h1 align="center">SHARATH A L</h1>
+<h1 align="center">Welcome to Sharath's GitHub Profile 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)
-[![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-green)](mailto:alsharath66@gmail.com)
-[![Codechef](https://img.shields.io/badge/codechef-sharath-yellow)](https://www.codechef.com/users/al_4al21cs134)
+## About Me 
+
+🎓 I’m currently pursuing a B.E in Computer Science and Engineering (CSE) at Alva's Institute of Engineering and Technology.<br>
+🔭 Actively engaged in pursuing internships and job opportunities, I aim to leverage my skills in programming and emerging technologies.<br>
+💻 Skills: Proficient in C and Java programming languages, certified in Robotics Process Automation (RPA)<br>
+🌱 Experienced in Internet of Things (IoT) through completed internships.<br>
+🌱 A passionate learner, I’m always on the lookout for new knowledge and skills to stay ahead in my field.
+
+## Contact 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)<br>
+[![Email](https://img.shields.io/badge/Email-alsharath66%40gmail.com-green)](mailto:alsharath66@gmail.com)<br>
+[![Codechef](https://img.shields.io/badge/codechef-sharath-yellow)](https://www.codechef.com/users/al_4al21cs134)<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharath-blue)](https://alsharathportfolio.netlify.app/)
   
 ## Skills
 
@@ -27,4 +37,31 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath453&" alt="sharath453" /></p><br><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath453&layout=compact&theme=tokyonight" alt="sharath453" /></p>
+## Experience 💼
+
+#### Internet of Things Intern | Alva’s Institute of Engineering and Technology | Karnataka, India (2022)
+- Led a team during an IoT internship, coordinating projects and promoting collaboration.
+- Enhanced expertise in sensor integration within IoT systems using TinkerCAD.
+
+#### Salesforce Virtual Intern | Smartinternz | Remote (2023)
+- Completed a virtual internship focused on Salesforce CRM and related technologies.
+- Developed skills in customer relationship management, data integration, and automation.
+
+## Academic Projects 🎓
+
+#### Android Mobile Application for College Administrative Tasks | 2024
+- Developed a mobile application to streamline college administrative tasks using the Flutter framework.
+- Implemented features for student attendance tracking, leave management, and notifications.
+- Utilized Dart programming language for app development and integrated MySQL for backend services.
+
+#### Real-Time Distance Measurement Using Ultrasonic Sensors | 2023
+- Implemented ultrasonic sensors for precise distance measurement with real-time data processing.
+- Developed and tested code for sensor integration, ensuring accurate readings and responsive feedback.
+
+## GitHub Stats 📊
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharath453&" alt="sharath453" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath453&layout=compact&theme=tokyonight" alt="sharath453" width="290" />
+</p>
+
+
