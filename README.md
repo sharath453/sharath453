@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Sharath's GitHub Profile 👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate about technology and innovation, aiming to establish a meaningful career in IT.</h3>
 
 ## About Me 
 
