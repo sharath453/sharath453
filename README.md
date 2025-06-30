@@ -3,7 +3,7 @@
 
 ## About Me 
 
-- I am a recent Computer Science and Engineering graduate from Alva's Institute of Engineering and Technology with a strong academic background and a CGPA of 8.05. I have a solid understanding of Java, C#, MYSQL, OOP's Concepts and Data Structures, and I am passionate about solving real-world problems through efficient and logical solutions. I am currently seeking opportunities where I can apply my skills, continue learning, and contribute to the growth of an innovative organization.
+- I am a recent Computer Science and Engineering graduate from Alva's Institute of Engineering and Technology with a strong academic background and a CGPA of 8.38. I have a solid understanding of Java, C#, MYSQL, OOP's Concepts and Data Structures, and I am passionate about solving real-world problems through efficient and logical solutions. I am currently seeking opportunities where I can apply my skills, continue learning, and contribute to the growth of an innovative organization.
 
 ## Contact 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharath-blue)](https://www.linkedin.com/in/sharath-a-l-877754249/)
@@ -44,6 +44,11 @@
 
 ## Academic Projects 🎓
 
+#### Technical Document Classification using AI Statistical Method | 2025
+- Developed an AI-based document classification system using Random Forest and NLP techniques.
+- Used tokenization, stop word removal, stemming, and count vectorization for text preprocessing.
+- Sub-categorized documents into fields like Technical and Non-Tech with user-friendly interface
+  
 #### Android Mobile Application for College Administrative Tasks | 2024
 - Developed a mobile application to streamline college administrative tasks using the Flutter framework.
 - Implemented features for student attendance tracking, leave management, and notifications.
